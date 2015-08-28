@@ -17,8 +17,9 @@
 |--static
 
 |--lib.
-  
-* *** |--scripts
+
+
+    |--scripts
   
 ....|--tests
 
