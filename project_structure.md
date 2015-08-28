@@ -21,11 +21,14 @@
 
     |--scripts
   
-....|--tests
 
-....|--templates
+    |--tests
 
-....|--styles
+
+    |--templates
+
+
+    |--styles
 
 |--tests
 
