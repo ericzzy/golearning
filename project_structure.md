@@ -2,30 +2,30 @@
 
 *Generally it consists of nine parts: config, controllers, middlewares, models, utils, errors, static, tests and server.go.*
 
-`--config
+|--config
 
-`--controllers
+|--controllers
 
-`--middlewares
+|--middlewares
 
-`--models
+|--models
 
-`--utils
+|--utils
 
-`--erros
+|--erros
 
-`--static
+|--static
 
->   `--lib
+>   |--lib
   
->   `--scripts
+>   |--scripts
   
->   `--tests
+>   |--tests
 
->   `--templates
+>   |--templates
 
->   `--styles
+>   |--styles
 
-`--tests
+|--tests
 
-`--server.go
+|--server.go
