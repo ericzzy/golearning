@@ -16,7 +16,7 @@
 
 |--static
 
-|--lib.
+|--lib
 
 
     |--scripts
