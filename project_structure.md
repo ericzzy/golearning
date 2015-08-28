@@ -5,3 +5,27 @@
 `--config
 
 `--controllers
+
+`--middlewares
+
+`--models
+
+`--utils
+
+`--erros
+
+`--static
+
+  `--lib
+  
+  `--scripts
+  
+  `--tests
+
+  `--templates
+
+  `--styles
+
+`--tests
+
+`--server.go
