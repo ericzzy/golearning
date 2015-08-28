@@ -18,7 +18,7 @@
 
 |--lib.
   
-**** |--scripts
+* *** |--scripts
   
 ....|--tests
 
