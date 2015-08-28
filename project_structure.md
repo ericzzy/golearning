@@ -16,15 +16,15 @@
 
 |--static
 
->   |--lib
+....|--lib
   
->   |--scripts
+....|--scripts
   
->   |--tests
+....|--tests
 
->   |--templates
+....|--templates
 
->   |--styles
+....|--styles
 
 |--tests
 
